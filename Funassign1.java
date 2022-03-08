@@ -13,6 +13,7 @@ public class Funassign1 {
 			int r = y%10;
 			rev = rev*10+r;
 			y=y/10;
+			// reverse number logic here
 	   	}
 
 		
